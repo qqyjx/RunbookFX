@@ -67,7 +67,6 @@ the "verify under replay, run under any handler" idea.
 ```
 runbookfx/    effects.py syntax.py checker.py sim.py interp.py contracts.py synth.py mock_llm.py demo.py
 tests/        effect algebra + checker tests; interpreter + synthesis-loop tests
-coq/          the paper's Coq files, unbuilt and partly admitted (see coq/README.md)
 CITATION.bib  LICENSE
 ```
 
