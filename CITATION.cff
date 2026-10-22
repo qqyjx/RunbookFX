@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "RunbookFX: Type- and Effect-Safe LLM Synthesis for Executable Incident Diagnosis and Mitigation"
+authors:
+  - family-names: "Xiao"
+    given-names: "Yifan"
+    orcid: "https://orcid.org/0009-0004-6447-3242"
+  - family-names: "Li"
+    given-names: "Shijie"
+    orcid: "https://orcid.org/0009-0002-5644-4527"
+  - family-names: "Ge"
+    given-names: "Yuhao"
+    orcid: "https://orcid.org/0009-0005-6427-235X"
+doi: "10.1145/3828675"
+repository-code: "https://github.com/qqyjx/RunbookFX"
+license: MIT
+preferred-citation:
+  type: article
+  title: "RunbookFX: Type- and Effect-Safe LLM Synthesis for Executable Incident Diagnosis and Mitigation"
+  authors:
+    - family-names: "Xiao"
+      given-names: "Yifan"
+      orcid: "https://orcid.org/0009-0004-6447-3242"
+    - family-names: "Li"
+      given-names: "Shijie"
+      orcid: "https://orcid.org/0009-0002-5644-4527"
+    - family-names: "Ge"
+      given-names: "Yuhao"
+      orcid: "https://orcid.org/0009-0005-6427-235X"
+  doi: "10.1145/3828675"
+  journal: "Proceedings of the ACM on Programming Languages"
+  publisher:
+    name: "Association for Computing Machinery (ACM)"
+  volume: 10
+  issue: "ICFP"
+  pages: 34
+  notes: "Article 277"
+  year: 2026
+  month: 8
