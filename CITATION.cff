@@ -33,7 +33,7 @@ preferred-citation:
     name: "Association for Computing Machinery (ACM)"
   volume: 10
   issue: "ICFP"
-  start: 66
-  end: 99
+  pages: 34
+  notes: "Article 277"
   year: 2026
   month: 8

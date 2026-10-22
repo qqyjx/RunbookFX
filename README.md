@@ -110,7 +110,8 @@ If you use this code, please cite the paper:
   author = {Xiao, Yifan and Li, Shijie and Ge, Yuhao},
   year = {2026},
   month = Aug,
-  pages = {66–99},
+  articleno = {277},
+  numpages = {34},
 }
 ```
 
